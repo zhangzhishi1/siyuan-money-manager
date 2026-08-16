@@ -1,0 +1,22 @@
+{
+    "name": "moneymanager",
+    "author": "zhangzhishi1",
+    "url": "https://github.com/zhangzhishi1/siyuan-money-manager",
+    "version": "1.0.0",
+    "minAppVersion": "3.7.0",
+    "backends": ["windows", "linux", "darwin"],
+    "frontends": ["desktop", "desktop-window"],
+    "displayName": {
+        "default": "Money Manager",
+        "zh_CN": "记账"
+    },
+    "description": {
+        "default": "Track daily income and expenses with custom categories, stats, moods, images and Daily Note integration.",
+        "zh_CN": "记录每日收支，支持自定义分类、统计、心情、图片与 Daily Note 关联。"
+    },
+    "readme": {
+        "default": "README.md",
+        "zh_CN": "README_zh_CN.md"
+    },
+    "keywords": ["money", "account", "记账", "收支", "bookkeeping"]
+}
