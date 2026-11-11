@@ -2,7 +2,7 @@
     "name": "moneymanager",
     "author": "zhangzhishi1",
     "url": "https://github.com/zhangzhishi1/siyuan-money-manager",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minAppVersion": "3.7.0",
     "backends": ["windows", "linux", "darwin"],
     "frontends": ["desktop", "desktop-window"],
